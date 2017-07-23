@@ -24,3 +24,7 @@
 * Message entered: My first commit
 * Ctrl+Enter (answered Yes to commit)
 
+#### installed inside vscode
+
+* Git Lens
+
